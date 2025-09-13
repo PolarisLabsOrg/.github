@@ -22,7 +22,7 @@ Welcome to Polaris where anyone interested in coding can connect and interact wi
 
 ### How do I set the Organization to Public?
 
-> 1. Navigate to our community page: https://github.com/PolarisLabsOrg/
+> 1. Navigate to our community [page](https://github.com/PolarisLabsOrg/)
 >   
 > 2. Click on the people header or click [here](https://github.com/orgs/PolarisLabsOrg/people) : <br>
 >   
